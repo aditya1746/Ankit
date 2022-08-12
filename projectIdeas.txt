@@ -1,0 +1,15 @@
+real time sudoku solver
+
+harry potter cloak
+
+whiteboard (python)
+
+AR subway surfers
+    Voice Controlled
+    Gesture Controlled
+
+tic-tac-toe game from opencv
+
+Document Scanner
+
+Air mouse
